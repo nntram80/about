@@ -4,33 +4,22 @@
 
 Ho Chi Minh City, Vietnam · [Email](mailto:nntram@gmail.com) · [+84 933 886 580](tel:+84933886580) · [LinkedIn](https://www.linkedin.com/in/tram-nguyen-b514474b)
 
-## Summary
+## **SUMMARY**
 
-Project Manager and Certified Professional Scrum Master (PSM II) with 20+ years of experience leading global software delivery across healthcare, pharmaceuticals, CRM/LMS, finance, insurance, government services, and e-commerce. Proven track record of delivering large-scale microservices platforms supporting **45,000+ annual users**, scaling an engineering team from **20 to 100 people in six months**, and leading operations and talent development across a **600-person business unit**.
+Project Manager and Certified Professional Scrum Master (PSM II) with 20+ years of experience leading global software delivery across healthcare, pharmaceuticals, CRM/LMS, finance, insurance, government services, and e-commerce. Proven track record of combining strategic operations with hands-on Agile execution across fixed-price and ODC engagements.
 
-- **Project Turnaround & Client Trust:** Rescued critical, at-risk ("red") microservices engagements facing escalations and attrition, restoring stability, predictable delivery, and long-term client trust within six months.
-- **Healthcare Digital Transformation:** Advised pharmaceutical and healthcare stakeholders on digital transformation—translating patient, doctor, and partner needs into a 2-year web/mobile roadmap for Novartis’s Patient Access Program.
-- **Multi-Team Delivery Operations:** Directed delivery operations and portfolio governance for 200+ engineers, mentoring 10 direct reports leading project execution across international accounts.
-- **Cross-Functional Release Execution:** Aligned engineering, product, and operations teams to deliver complex, high-risk enterprise releases safely and predictably.
+- **Enterprise System Scale:** Delivered large-scale microservices platforms supporting **45,000+ annual users**.
+- **Hyper-Growth Team Scaling:** Expanded a global engineering team from **20 to 100 members in six months**.
+- **Business Unit Scope:** Directed end-to-end delivery operations and talent development across a **600-person business unit**.
 - **AI-Native Readiness:** Completed company AI-Native readiness training and led bid planning for an AI-Native software development engagement.
 
-## Core Strengths
+## **CORE STRENGTHS**
 
-### Project & Agile Delivery
-
-Scrum, Kanban, and Waterfall · Fixed-price and ODC delivery · Project recovery · Scope, schedule, and risk management · Delivery governance · AI-native software delivery
-
-### People & Operations Leadership
-
-Team scaling and resource planning · Talent acquisition · Coaching and capability building · Stakeholder alignment · Cross-cultural communication · Vendor management · Budgeting and P&L tracking
-
-### Tools & Platforms
-
-Jira · Confluence · Azure DevOps · MS Project
-
-### Domain Experience
-
-Healthcare and pharmaceuticals · Insurance · Finance · CRM and LMS · Government public services · E-commerce and retail
+- **Project Turnaround & Client Trust:** Rescued critical, at-risk ("red") microservices engagements facing client escalations and attrition, restoring stability, predictable delivery, and long-term customer trust within **6 months**.
+- **Multi-Team Delivery & Operations Governance:** Directed delivery operations, portfolio KPIs, and financial/contract tracking for **200+ engineers** and **10 direct reports** across international accounts (Australia, UK, US, Israel, Canada).
+- **Talent Acquisition & Capability Building:** Built recruitment pipelines, training programs, and skill matrices from scratch to prepare resource pools for active and pipeline enterprise engagements.
+- **Healthcare Digital Transformation & Product Strategy:** Advised pharmaceutical and healthcare stakeholders on digital transformation—translating patient, doctor, and partner needs into an approved **2-year web/mobile roadmap** for Novartis’s Patient Access Program.
+- **Cross-Functional Release Execution:** Aligned engineering, product, and operations teams (across Scrum, Kanban, and Waterfall) to ship complex, high-risk enterprise releases safely and predictably.
 
 ## Experience
 
