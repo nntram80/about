@@ -4,6 +4,8 @@
 
 Ho Chi Minh City, Vietnam · [Email](mailto:nntram@gmail.com) · [+84 933 886 580](tel:+84933886580) · [LinkedIn](https://www.linkedin.com/in/tram-nguyen-b514474b)
 
+[Open CV in Google Docs](https://docs.google.com/document/d/1mzbmWZbXX7LiTuEfnUC4CM7COIb2uNt0iUPp0l6SHp4/edit?usp=sharing) · [Download CV (.pdf)](https://docs.google.com/document/d/1mzbmWZbXX7LiTuEfnUC4CM7COIb2uNt0iUPp0l6SHp4/export?format=pdf)
+
 ## **SUMMARY**
 
 Project Manager and Certified Professional Scrum Master (PSM II) with 20+ years of experience leading global software delivery across healthcare, pharmaceuticals, CRM/LMS, finance, insurance, government services, and e-commerce. Proven track record of combining strategic operations with hands-on Agile execution across fixed-price and ODC engagements.
